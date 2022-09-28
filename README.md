@@ -8,10 +8,10 @@ a self hostable linktree alternative
 
 ```bash
 # git
-git clone https://github.com/keksiqc/shako.git
+git clone https://github.com/ChrissisCodeXD/link_website.git
 
 # gh cli
-gh repo clone keksiqc/shako
+gh repo clone ChrissisCodeXD/link_website
 ```
 
 2. Install dependencies
