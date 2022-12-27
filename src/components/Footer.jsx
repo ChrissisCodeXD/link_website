@@ -7,11 +7,11 @@ export default function Footer() {
   return (
     <DaisyUIFooter className="footer footer-center text-base-content bottom-0 mb-10 mt-8 gap-1 tall:!fixed">
       <DaisyUIFooter.Title className="inline-flex">
-        <FaCode /> with <FaHeart /> by Keksi
+        <FaCode /> with <FaHeart /> by Chrissi
       </DaisyUIFooter.Title>
       <a
         className="link link-hover mb-2"
-        href="https://github.com/keksiqc/shako"
+        href="https://github.com/ChrissisCodeXD/link_website"
         target="_blank"
       >
         GitHub
